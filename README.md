@@ -18,9 +18,10 @@
 
  
 
-演示网站： # http://v.liangmlk.cn
+演示网站： 
+      服务器版： http://v.liangmlk.cn
 
-          # http://liangmlk.esy.es/v
+      虚拟空间版： # http://liangmlk.esy.es/v
 
 该套源码可以打通微信公众号或者小程序，打造一个微信端的自媒体！
 
